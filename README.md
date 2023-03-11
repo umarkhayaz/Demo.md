@@ -1,3 +1,3 @@
-# Demo.md
+# Demo
 
 Search Description!
